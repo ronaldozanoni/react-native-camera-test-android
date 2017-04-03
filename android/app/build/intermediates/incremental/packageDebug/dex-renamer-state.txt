@@ -1,0 +1,4 @@
+#Mon Apr 03 16:06:11 BRT 2017
+base.0=/Users/ronaldozanoni/Workspace/react-native-camera-android/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/ronaldozanoni/Workspace/react-native-camera-android/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
